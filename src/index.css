@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --color-midnight: #121063;
+  --color-tahiti: #3ab7bf;
+  --color-bermuda: #78dcca;
+  --color-dammyDudu: #001;
+  --color-primaryColor: #131415;
+  --color-primaryBlue: #6968f7;
+}
+
+.gradientColor{
+  background: linear-gradient(135deg, #69f, #f36);
+}
